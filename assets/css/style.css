@@ -77,7 +77,7 @@ z-index: -1;}
 .user_details{
 width: 230px;
 float: left;
-margin-bottom: 20px;
+margin-top: 20px;
 
 }
 .user_details_left_right{
@@ -95,7 +95,7 @@ margin-bottom: 20px;
 	width: 70%;
 	z-index: -1;
 	min-height: 160px;
-
+     margin-top: 19px;
 }
 .post_form{
 	width: 100%;
@@ -114,7 +114,7 @@ textarea:focus {
 }
 .post_form input[type="submit"]{
     width: 11%;
-    height: 60px;
+    height: 70px;
     border:none;
     border-radius: 3px;
     background-color: #3498db;

@@ -11,6 +11,7 @@ else {
 	header("Location: register.php");
 }
 
+ 
  ?>
  <!DOCTYPE html>
  <html>
